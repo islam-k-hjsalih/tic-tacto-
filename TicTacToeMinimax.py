@@ -9,7 +9,7 @@ computer = 'X'
 
 player_sc=0
 coputer_sc=0
-print("Islam Khaleel Ali Hj Salih==202310884")
+
 def printBoard(board):
     print(board[1] + "|" + board[2] + "|" + board[3])
     print("-+-+-")
